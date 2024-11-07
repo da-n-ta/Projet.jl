@@ -3,6 +3,9 @@ uuid = "e4a4e60e-2591-43d5-ac24-ba5b0b598911"
 authors = ["da-n-ta <73463092+da-n-ta@users.noreply.github.com> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+
 [compat]
 julia = "1.10"
 
